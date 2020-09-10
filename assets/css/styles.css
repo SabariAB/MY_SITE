@@ -457,3 +457,9 @@ img{
   font-size: 20px;
 }
 
+.pt:hover{
+  color: steelblue;
+}
+.color:hover{
+  color: steelblue;
+}
