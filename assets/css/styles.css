@@ -302,6 +302,9 @@ img{
 .skills__py{
   width: 85%;
 }
+.skills__jv{
+  width: 60%;
+}
 .skills__img{
   border-radius: .5rem;
 }
